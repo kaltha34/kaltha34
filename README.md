@@ -13,7 +13,7 @@
 
 ## 💼 About Me
 
-- 🎓 Undergraduate at [Your University Name] specializing in **Software Engineering**
+- 🎓 Undergraduate at University of Westminster specializing in **Software Engineering**
 - 💡 Building secure, real-time applications for real-world problems
 - 🧠 Currently mastering **Spring Boot**, **React.js**, **RESTful APIs**, and **Blockchain**
 - 🛡️ Enthusiastic about Cybersecurity and Identity Verification systems
